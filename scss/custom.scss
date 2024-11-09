@@ -1,0 +1,14 @@
+// Custom.scss
+
+// Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Edição de estilos padrões
+
+$primary: #d52856 !default;
+
+$theme-colors: (
+    "primary": $primary
+);
+
+// CSS Adicional
