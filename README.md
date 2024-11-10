@@ -1,5 +1,10 @@
 # XPE-BootcampDesenvolvedorFrontEnd-DESM1
- Projeto do Bootcamp Desenvolvedor Front-End da XPE (IGTI)
+
+Bootcamp: Desenvolvedor(a) Front End
+
+Módulo 1: Design para Front End
+
+Desafio Prático
 
 ## Tecnologias utilizadas
 
